@@ -1,0 +1,19 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background: url(./wabg.png) center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #27A745;
+}
+
+#hometext {
+    align-self: center;
+}
